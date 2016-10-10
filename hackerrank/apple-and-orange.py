@@ -1,5 +1,8 @@
 #!/bin/python
 
+'''
+Source: https://www.hackerrank.com/contests/w24/challenges/apple-and-orange
+'''
 import sys
 
 
